@@ -15,7 +15,7 @@ const Navbar = ({ setSidebar }) => {
           className="menu-icon"
           src={menu_icon}
           alt=""
-          onClick={(prev) => (prev === false ? true : false)}
+          onClick={() => setSidebar((prev) => (prev === false ? true : false))}
         />
         <img src={logo} alt="" className="logo" />
       </div>
