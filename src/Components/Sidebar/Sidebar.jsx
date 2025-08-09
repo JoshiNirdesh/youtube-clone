@@ -49,11 +49,12 @@ const Sidebar = () => {
         <div className="side-link">
           <img src={blogs} alt="" />
           <p>BLogs</p>
-          <div className="side-link">
-            <img src={news} alt="" />
-            <p>News</p>
-          </div>
         </div>
+        <div className="side-link">
+          <img src={news} alt="" />
+          <p>News</p>
+        </div>
+
         <hr />
         <div className="subscribed-list">
           <h3>Subscribed</h3>
