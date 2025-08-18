@@ -46,6 +46,63 @@ const PlayVideo = () => {
         <p>Subscribe GreatStack to Watch More Tutorials on web development</p>
         <hr />
         <h4>130 Comments</h4>
+        <div className="comment">
+          <img src={user_profile} alt="" />
+          <div>
+            <h3>
+              Jack Nicholson <span>1 day ago</span>
+            </h3>
+            <p>
+              A global computer network providing a variety of information and
+              communication facilities, consisting of interconnected network
+              using standarized communication protocols.{" "}
+            </p>
+            <div className="comment-action">
+              <img src={like} alt="" />
+              <span>244</span>
+              <img src={dislike} alt="" />
+              span
+            </div>
+          </div>
+        </div>
+        <div className="comment">
+          <img src={user_profile} alt="" />
+          <div>
+            <h3>
+              Jack Nicholson <span>1 day ago</span>
+            </h3>
+            <p>
+              A global computer network providing a variety of information and
+              communication facilities, consisting of interconnected network
+              using standarized communication protocols.{" "}
+            </p>
+            <div className="comment-action">
+              <img src={like} alt="" />
+              <span>244</span>
+              <img src={dislike} alt="" />
+              span
+            </div>
+          </div>
+        </div>
+        <div className="comment">
+          <img src={user_profile} alt="" />
+          <div>
+            <h3>
+              Jack Nicholson <span>1 day ago</span>
+            </h3>
+            <p>
+              A global computer network providing a variety of information and
+              communication facilities, consisting of interconnected network
+              using standarized communication protocols.{" "}
+            </p>
+            <div className="comment-action">
+              <img src={like} alt="" />
+              <span>244</span>
+              <img src={dislike} alt="" />
+              span
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   );
