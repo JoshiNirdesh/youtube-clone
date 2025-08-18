@@ -61,7 +61,6 @@ const PlayVideo = () => {
               <img src={like} alt="" />
               <span>244</span>
               <img src={dislike} alt="" />
-              span
             </div>
           </div>
         </div>
@@ -80,7 +79,6 @@ const PlayVideo = () => {
               <img src={like} alt="" />
               <span>244</span>
               <img src={dislike} alt="" />
-              span
             </div>
           </div>
         </div>
@@ -99,7 +97,6 @@ const PlayVideo = () => {
               <img src={like} alt="" />
               <span>244</span>
               <img src={dislike} alt="" />
-              span
             </div>
           </div>
         </div>
